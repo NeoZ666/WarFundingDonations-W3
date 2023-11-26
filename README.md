@@ -1,6 +1,6 @@
 Readme.rst present in the PROJECT_PRESENTATION/Screenshots folder
 
-![Alt text](/PROJECT_PRESENTATION/Screenshots/0001.jpg) 
+![Alt text](./PROJECT_PRESENTATION/Screenshots/0001.jpg) 
 ![Alt text](/PROJECT_PRESENTATION/Screenshots/0002.jpg) 
 ![Alt text](/PROJECT_PRESENTATION/Screenshots/0003.jpg) 
 ![Alt text](/PROJECT_PRESENTATION/Screenshots/0004.jpg) 
