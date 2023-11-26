@@ -10,7 +10,3 @@
 ![Alt text](ss2.jpg)
 ![Alt text](ss3.jpg)
 ![Alt text](ss4.jpg)
-![Alt text](/PROJECT_PRESENTATION/Screenshots/ss1.jpg)
-![Alt text](/PROJECT_PRESENTATION/Screenshots/ss2.jpg)
-![Alt text](/PROJECT_PRESENTATION/Screenshots/ss3.jpg)
-![Alt text](/PROJECT_PRESENTATION/Screenshots/ss4.jpg)
