@@ -1,6 +1,6 @@
 ![Alt text](/PROJECT_PRESENTATION/Screenshots/0001.jpg) 
 ![Alt text](/PROJECT_PRESENTATION/Screenshots/0002.jpg) 
-![Alt text](/PROJECT_PRESENTATION/Screenshots/0003.jpg) 
+![Alt](https://github.com/NeoZ666/WarFundingDonations-W3/blob/main/PROJECT_PRESENTATION/Screenshots/0003.jpg?raw=true)
 ![Alt text](/PROJECT_PRESENTATION/Screenshots/0004.jpg) 
 ![Alt text](/PROJECT_PRESENTATION/Screenshots/0005.jpg) 
 ![Alt text](/PROJECT_PRESENTATION/Screenshots/0006.jpg) 
