@@ -1,12 +1,47 @@
-![Alt](0001.jpg)
-![Alt text](0002.jpg) 
-![Alt text](0003.jpg) 
-![Alt text](0004.jpg) 
-![Alt text](0005.jpg) 
-![Alt text](0006.jpg) 
-![Alt text](0007.jpg)
-![Alt text](0008.jpg)
-![Alt text](ss1.jpg)
-![Alt text](ss2.jpg)
-![Alt text](ss3.jpg)
-![Alt text](ss4.jpg)
+.. image:: 0001.jpg
+   :width: 400
+   :alt: Alternative text
+
+.. image:: 0002.jpg
+   :width: 400
+   :alt: Alternative text
+
+.. image:: 0003.jpg
+   :width: 400
+   :alt: Alternative text
+
+.. image:: 0004.jpg
+   :width: 400
+   :alt: Alternative text
+
+.. image:: 0005.jpg
+   :width: 400
+   :alt: Alternative text
+
+.. image:: 0006.jpg
+   :width: 400
+   :alt: Alternative text
+
+.. image:: 0007.jpg
+   :width: 400
+   :alt: Alternative text
+
+.. image:: 0008.jpg
+   :width: 400
+   :alt: Alternative text
+
+.. image:: ss1.jpg
+   :width: 400
+   :alt: Alternative text
+
+.. image:: ss2.jpg
+   :width: 400
+   :alt: Alternative text
+
+.. image:: ss3.jpg
+   :width: 400
+   :alt: Alternative text
+
+.. image:: ss4.jpg
+   :width: 400
+   :alt: Alternative text
